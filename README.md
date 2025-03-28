@@ -1,16 +1,31 @@
-## Hi there 👋
+Hey there! I'm Ollie 👋
 
-<!--
-**ollietelford/ollietelford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data-driven problem solver with a Physics degree and a knack for turning raw numbers into powerful insights through story telling. After completing my degree and Data bootcamp, I am ready to start my career in data.
 
-Here are some ideas to get you started:
+🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📖 BSc Physics | University of Leeds – Where I learned to tackle massive datasets, extract real-world values, and communicate complex findings in a clear, insightful way.
+📊 Data Technician Bootcamp | Just IT – A deep dive into Excel, Power BI, SQL, Tableau, and Python - culminating in presenting a film studio dashboard to analyse investment opportunities. 
+
+
+🛠️ Tools & Skills
+
+Programming & Data Analysis
+
+🐍 Python - Pandas, Matplotlib, Numpy, Seaborn | Data Manipulation, EDA, Data Visualisation.
+✨ SQL - Joins, CTEs, Exploratory Data Analysis.
+
+Data Visualization & Reporting
+
+📊 Power BI (Power Query, Dashboards) – Telling stories with graphs.
+🎨 Tableau – Turning raw data into actionable insights.
+💰 Excel – PivotTables, advanced formulae, and all the spreadsheet magic.
+
+
+💪 Goals
+
+✨ Keep developing my skills in data analytics and visualization, project by project.
+📚 Continue learning – Next up: more certifications, more coding, more insights!
+🎥 Land a full-time junior data analyst role where I can make an impact with my skills.
+
+Let’s connect! 👉 LinkedIn: www.linkedin.com/in/oliver-telford 
