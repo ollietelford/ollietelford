@@ -5,9 +5,9 @@ I'm a data-driven problem solver with a Physics degree and a knack for turning r
 
 🎓 Education
 
-📖 BSc Physics | University of Leeds – Where I learned to tackle massive datasets, extract real-world values, and communicate complex findings in a clear, insightful way.
+-  📖 BSc Physics | University of Leeds – Where I learned to tackle massive datasets, extract real-world values, and communicate complex findings in a clear, insightful way.
 
-📊 Data Technician Bootcamp | Just IT – A deep dive into Excel, Power BI, SQL, Tableau, and Python - culminating in presenting a film studio dashboard to analyse investment opportunities. 
+-  📊 Data Technician Bootcamp | Just IT – A deep dive into Excel, Power BI, SQL, Tableau, and Python - culminating in presenting a film studio dashboard to analyse investment opportunities. 
 
 
 
@@ -15,21 +15,22 @@ I'm a data-driven problem solver with a Physics degree and a knack for turning r
 
 Programming & Data Analysis
 
-🐍 Python - Pandas, Matplotlib, Numpy, Seaborn | Data Manipulation, EDA, Data Visualisation.
-✨ SQL - Joins, CTEs, Exploratory Data Analysis.
+-  🐍 Python - Pandas, Matplotlib, Numpy, Seaborn | Data Manipulation, EDA, Data Visualisation.
+-  ✨ SQL - Joins, CTEs, Exploratory Data Analysis.
+
 
 
 Data Visualization & Reporting
 
-📊 Power BI (Power Query, Dashboards) – Telling stories with graphs.
-🎨 Tableau – Turning raw data into actionable insights.
-💰 Excel – PivotTables, advanced formulae, and all the spreadsheet magic.
+-  📊 Power BI (Power Query, Dashboards) – Telling stories with graphs.
+-  🎨 Tableau – Turning raw data into actionable insights.
+-  💰 Excel – PivotTables, advanced formulae, and all the spreadsheet magic.
 
 
 💪 Goals
 
-✨ Keep developing my skills in data analytics and visualization, project by project.
-📚 Continue learning – Next up: more certifications, more coding, more insights!
-🎥 Land a full-time junior data analyst role where I can make an impact with my skills.
+-  ✨ Keep developing my skills in data analytics and visualization, project by project.
+-  📚 Continue learning – Next up: more certifications, more coding, more insights!
+-  🎥 Land a full-time junior data analyst role where I can make an impact with my skills.
 
 Let’s connect! 👉 LinkedIn: www.linkedin.com/in/oliver-telford 
