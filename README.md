@@ -2,10 +2,13 @@ Hey there! I'm Ollie 👋
 
 I'm a data-driven problem solver with a Physics degree and a knack for turning raw numbers into powerful insights through story telling. After completing my degree and Data bootcamp, I am ready to start my career in data.
 
+
 🎓 Education
 
 📖 BSc Physics | University of Leeds – Where I learned to tackle massive datasets, extract real-world values, and communicate complex findings in a clear, insightful way.
+
 📊 Data Technician Bootcamp | Just IT – A deep dive into Excel, Power BI, SQL, Tableau, and Python - culminating in presenting a film studio dashboard to analyse investment opportunities. 
+
 
 
 🛠️ Tools & Skills
@@ -14,6 +17,7 @@ Programming & Data Analysis
 
 🐍 Python - Pandas, Matplotlib, Numpy, Seaborn | Data Manipulation, EDA, Data Visualisation.
 ✨ SQL - Joins, CTEs, Exploratory Data Analysis.
+
 
 Data Visualization & Reporting
 
