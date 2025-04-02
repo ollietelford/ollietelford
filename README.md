@@ -1,7 +1,10 @@
-Hey there! I'm Ollie 👋
+## Hey there! I'm Ollie 👋
 
 I'm a data-driven problem solver with a Physics degree and a knack for turning raw numbers into powerful insights through story telling. After completing my degree and Data bootcamp, I am ready to start my career in data.
 
+-----
+- To see my learning journey and the work completed in the bootcamp, click on the repos with the software name. 
+- To see additional projects displaying a variety of my skills, click on the named projects
 
 🎓 Education
 
