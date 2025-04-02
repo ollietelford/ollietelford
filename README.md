@@ -24,7 +24,7 @@ Data Visualization & Reporting
 
 -  📊 Power BI (Power Query, Dashboards) – Telling stories with graphs.
 -  🎨 Tableau – Turning raw data into actionable insights.
--  💰 Excel – PivotTables, advanced formulae, and all the spreadsheet magic.
+-  💰 Excel – PivotTables, advanced formulae and charts.
 
 
 💪 Goals
